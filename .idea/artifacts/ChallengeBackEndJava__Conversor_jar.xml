@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChallengeBackEndJava -Conversor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChallengeBackEndJava__Conversor_jar</output-path>
+    <root id="archive" name="ChallengeBackEndJava -Conversor.jar">
+      <element id="module-output" name="ChallengeBackEndJava -Conversor" />
+      <element id="library" level="project" name="ChallengeBackEndJava -Conversor" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20230618.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
